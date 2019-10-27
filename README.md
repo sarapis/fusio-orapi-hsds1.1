@@ -29,16 +29,6 @@ ex: `FUSIO_URL="http://example.com"`
 
 
 
-Enter server url into env.php file located at _/target/folder/socialServicesApp/include/env.php_
-
-ex: `define('APIENTRY', 'http://example.com');`
-
-
-## Demo Application
-
-/socialServicesApp
-
-
 ## API
 
 API is available for reading data from several entry points described by Human Service Data API Suite (HSDA) - https://openreferral.readthedocs.io/en/latest/hsda/
